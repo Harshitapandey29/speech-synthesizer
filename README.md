@@ -4,9 +4,9 @@ This project is a simple web-based speech synthesizer that converts text to spee
 
 # Features
 
- -User can input text into a text area.
- -User can click a button to hear the text read aloud.
- -Basic styling for a user-friendly interface.
+ User can input text into a text area.
+ User can click a button to hear the text read aloud.
+ Basic styling for a user-friendly interface.
     
  # Technologies Used
 
