@@ -14,3 +14,8 @@ This project is a simple web-based speech synthesizer that converts text to spee
     CSS
     JavaScript
     Web Speech API
+
+# Usage
+
+    Enter the text you want to convert to speech in the text area.
+    Click the "Speak" button to hear the text read aloud.
